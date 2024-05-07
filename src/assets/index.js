@@ -20,11 +20,19 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import C from "./tech/clogo.png";
+import cpp from "./tech/cpplogo.png";
+import flutter from "./tech/flutter.png";
+import java from "./tech/javalogo.png";
+import python from "./tech/pythonlogo.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import clglogo from "./company/Clg_Logo.png";
+import IANT from "./company/IANT.png";
+import prodigy from "./company/prodigylogo.jpeg"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -58,5 +66,13 @@ export {
   tesla,
   carrent,
   jobit,
+  clglogo,
   tripguide,
+  IANT,
+  prodigy,
+  C,
+  cpp,
+  flutter,
+  java,
+  python
 };
