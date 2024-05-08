@@ -22,8 +22,8 @@ const Hero = () => {
           <div className='w-5 h-5 rounded-full bg-[#c0c0c0]' />
           <div className='w-1 sm:h-80 h-40 violet-gradient' />
         </div>
+          <audio src={myaudio} autoPlay loop/>
 
-          {/* <audio src={myaudio} autoPlay loop/> */}
         <div>
           <h1 className={`${styles.heroHeadText} text-gray-300`}>
             Hi, I'm <span className='text-[#fcff34]'>Kunal</span>
